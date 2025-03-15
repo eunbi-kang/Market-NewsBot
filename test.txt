@@ -1,0 +1,7 @@
+<yna-paging total="500" real-total="906" item-count="25" max-page="20" page-count="10" style="display: block;">
+<div class="paging-type01">
+<strong class="num on">1</strong><a href="https://www.yna.co.kr/market-plus/all/2?site=footer_market_plus_depth02" class="num">2</a><a href="https://www.yna.co.kr/market-plus/all/3?site=footer_market_plus_depth02" class="num">3</a><a href="https://www.yna.co.kr/market-plus/all/4?site=footer_market_plus_depth02" class="num">4</a><a href="https://www.yna.co.kr/market-plus/all/5?site=footer_market_plus_depth02" class="num">5</a><a href="https://www.yna.co.kr/market-plus/all/6?site=footer_market_plus_depth02" class="num display-none">6</a><a href="https://www.yna.co.kr/market-plus/all/7?site=footer_market_plus_depth02" class="num display-none">7</a><a href="https://www.yna.co.kr/market-plus/all/8?site=footer_market_plus_depth02" class="num display-none">8</a><a href="https://www.yna.co.kr/market-plus/all/9?site=footer_market_plus_depth02" class="num display-none">9</a><a href="https://www.yna.co.kr/market-plus/all/10?site=footer_market_plus_depth02" class="num display-none">10</a>
+<a href="https://www.yna.co.kr/market-plus/all/6?site=footer_market_plus_depth02" class="next"><span class="ir-txt01">다음 페이지</span></a>
+<a href="https://www.yna.co.kr/market-plus/all/20?site=footer_market_plus_depth02" class="last"><span class="ir-txt01">마지막 페이지</span></a>
+</div>
+</yna-paging>
